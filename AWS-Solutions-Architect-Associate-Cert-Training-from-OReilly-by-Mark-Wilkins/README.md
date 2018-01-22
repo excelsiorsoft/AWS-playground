@@ -12,4 +12,8 @@ https://docs.aws.amazon.com/AmazonVPC/latest/UserGuide/default-vpc.html#create-d
 
 https://github.com/open-guides/og-aws
 
+https://www.pluralsight.com/courses/aws-vpc-operations
+
+
+
 
