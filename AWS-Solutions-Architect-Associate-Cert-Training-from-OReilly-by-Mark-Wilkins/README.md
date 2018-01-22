@@ -8,4 +8,8 @@ https://www.udemy.com/practice-test-aws-certified-solutions-architect-associate/
 
 https://www.safaribooksonline.com/library/view/amazon-web-services/9781771373944/
 
+https://docs.aws.amazon.com/AmazonVPC/latest/UserGuide/default-vpc.html#create-default-vpc
+
+https://github.com/open-guides/og-aws
+
 
